@@ -1,0 +1,14 @@
+# Login e dados gerados pelo uso do site: nunca vão para o repositório
+public/data/auth.php
+public/data/attempts.json
+public/data/.lock
+public/data/sessions/
+public/data/backups/
+public/fotos/u*.jpg
+
+# Pacotes e credenciais
+*.zip
+senha*.txt
+.env
+
+.DS_Store

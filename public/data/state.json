@@ -1,0 +1,228 @@
+{
+ "config": {
+  "whatsapp": "+5500000000000",
+  "deadline": "2027-12-18T23:59:00-03:00",
+  "where": "Retirada no Bairro Exemplo, Cidade - UF",
+  "payment": "Pix ou dinheiro",
+  "sinal": "Reserve agora com um sinal via Pix e retire nos últimos dias antes da mudança."
+ },
+ "items": [
+  {
+   "id": "sofa-tres-lugares",
+   "cat": "sala",
+   "name": "Sofá de três lugares",
+   "desc": "Sofá de tecido cinza, confortável e bem conservado.",
+   "price": 1200,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-sofa-tres-lugares.jpg"
+   ]
+  },
+  {
+   "id": "geladeira-frost-free",
+   "cat": "cozinha",
+   "name": "Geladeira frost free",
+   "desc": "Geladeira duplex branca, ainda em uso na casa.",
+   "price": 900,
+   "status": "disponivel",
+   "late": true,
+   "photos": [
+    "fotos/demo-geladeira-frost-free.jpg"
+   ]
+  },
+  {
+   "id": "mesa-de-jantar",
+   "cat": "sala",
+   "name": "Mesa de jantar",
+   "desc": "Mesa de madeira para seis pessoas.",
+   "price": 650,
+   "status": "reservado",
+   "late": false,
+   "photos": [
+    "fotos/demo-mesa-de-jantar.jpg"
+   ]
+  },
+  {
+   "id": "smart-tv",
+   "cat": "sala",
+   "name": "Smart TV",
+   "desc": "TV com controle remoto e base de mesa.",
+   "price": 500,
+   "status": "vendido",
+   "late": false,
+   "photos": [
+    "fotos/demo-smart-tv.jpg"
+   ]
+  },
+  {
+   "id": "cama-de-casal",
+   "cat": "quarto",
+   "name": "Cama de casal",
+   "desc": "Cama com base box, ainda em uso na casa.",
+   "price": 450,
+   "status": "disponivel",
+   "late": true,
+   "photos": [
+    "fotos/demo-cama-de-casal.jpg"
+   ]
+  },
+  {
+   "id": "violao",
+   "cat": "variedades",
+   "name": "Violão acústico",
+   "desc": "Violão de madeira com capa acolchoada.",
+   "price": 400,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-violao.jpg"
+   ]
+  },
+  {
+   "id": "maquina-de-lavar",
+   "cat": "variedades",
+   "name": "Máquina de lavar",
+   "desc": "Lavadora branca com vários programas.",
+   "price": 380,
+   "status": "disponivel",
+   "late": true,
+   "photos": [
+    "fotos/demo-maquina-de-lavar.jpg"
+   ]
+  },
+  {
+   "id": "comoda",
+   "cat": "quarto",
+   "name": "Cômoda com gavetas",
+   "desc": "Cômoda branca com muito espaço para roupas.",
+   "price": 250,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-comoda.jpg"
+   ]
+  },
+  {
+   "id": "micro-ondas",
+   "cat": "cozinha",
+   "name": "Micro-ondas",
+   "desc": "Micro-ondas espelhado com prato giratório.",
+   "price": 180,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-micro-ondas.jpg"
+   ]
+  },
+  {
+   "id": "espelho",
+   "cat": "sala",
+   "name": "Espelho de chão",
+   "desc": "Espelho grande com moldura de madeira.",
+   "price": 120,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-espelho.jpg"
+   ]
+  },
+  {
+   "id": "jogo-de-panelas",
+   "cat": "cozinha",
+   "name": "Jogo de panelas",
+   "desc": "Conjunto antiaderente com tampas de vidro.",
+   "price": 90,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-jogo-de-panelas.jpg"
+   ]
+  },
+  {
+   "id": "tapete",
+   "cat": "sala",
+   "name": "Tapete felpudo",
+   "desc": "Tapete macio listrado.",
+   "price": 70,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-tapete.jpg"
+   ]
+  },
+  {
+   "id": "secador",
+   "cat": "banheiro",
+   "name": "Secador de cabelo",
+   "desc": "Secador com duas velocidades.",
+   "price": 40,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-secador.jpg"
+   ]
+  },
+  {
+   "id": "cesto",
+   "cat": "banheiro",
+   "name": "Cesto de roupas",
+   "desc": "Cesto para roupa suja.",
+   "price": 25,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-cesto.jpg"
+   ]
+  },
+  {
+   "id": "planta",
+   "cat": "variedades",
+   "name": "Planta em vaso",
+   "desc": "Planta saudável, pronta para um novo lar.",
+   "price": 25,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-planta.jpg"
+   ]
+  },
+  {
+   "id": "jaqueta",
+   "cat": "roupas",
+   "name": "Jaqueta preta, tam. M",
+   "desc": "Jaqueta preta com bolsos e zíper.",
+   "price": 60,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-jaqueta.jpg"
+   ]
+  },
+  {
+   "id": "vestido",
+   "cat": "roupas",
+   "name": "Vestido estampado, tam. 42",
+   "desc": "Vestido sem mangas com estampa geométrica.",
+   "price": 35,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-vestido.jpg"
+   ]
+  },
+  {
+   "id": "chapeu",
+   "cat": "roupas",
+   "name": "Chapéu de palha",
+   "desc": "Chapéu de praia com aba larga.",
+   "price": 20,
+   "status": "disponivel",
+   "late": false,
+   "photos": [
+    "fotos/demo-chapeu.jpg"
+   ]
+  }
+ ],
+ "version": 1
+}
